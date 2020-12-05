@@ -1,3 +1,3 @@
-# DH520 - Course Project
-Author: Nguyen Tran Nhat Hoang
+# DH520-Project
+The use of Evolutionary Strategies in Machine Learning
 

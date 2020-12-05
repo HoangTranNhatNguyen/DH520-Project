@@ -1,2 +1,3 @@
-# DH520-Project
-DH520 - Course Project
+# DH520 - Course Project
+Author: Nguyen Tran Nhat Hoang
+
